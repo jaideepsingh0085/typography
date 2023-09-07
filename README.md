@@ -2,7 +2,7 @@
 ![Screenshot 2023-09-07 181238](https://github.com/jaideepsingh0085/typography/assets/128147644/7e7c47f5-db86-4470-9538-e03b7205e11b)
 ![Screenshot 2023-09-07 181313](https://github.com/jaideepsingh0085/typography/assets/128147644/44ddb0ce-35bf-4226-ac98-c5d85ef4170c)
 ![Screenshot 2023-09-07 181352](https://github.com/jaideepsingh0085/typography/assets/128147644/5150ec57-648f-4f36-be5c-a603991abc72)
-
+Hosted Link : https://jaideepsingh0085.github.io/typography/
 HTML Description:
 <div class="header">: Defines a container div with the class "header."
 <h2>: Represents a level 2 heading.
